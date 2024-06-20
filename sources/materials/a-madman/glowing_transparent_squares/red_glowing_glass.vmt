@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "a-madman/glowing_transparent_squares/red_glowing_glass"
+	"$surfaceprop" "Glass"
+	"$translucent" 1
+	"$selfillum" 1
+}
