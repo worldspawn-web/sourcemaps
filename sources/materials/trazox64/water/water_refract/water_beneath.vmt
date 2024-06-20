@@ -1,0 +1,52 @@
+"Water"
+{
+	"$forceexpensive" 1
+
+	"$abovewater" 0
+	"%compilewater" 1
+	"$CHEAPWATERSTARTDISTANCE" 500.0
+	"$CHEAPWATERENDDISTANCE" 1000.0
+	"%notooltexture" "1"
+	"$refractamount" ".2"
+	"$refracttint" "[0.95 1.0 0.97]"
+
+	"$reflectamount" "1.0"
+	"$reflecttint" "[1 1 1]"
+
+	"$refracttexture" "_rt_WaterRefraction"
+
+	"$scale" "[1 1]"
+
+	"$blurrefract" "1"
+	"$normalmap" "trazox64/water/water_refract/normal"
+
+	 $underwateroverlay "trazox64/water/water_refract/water_warp.vmt"
+	"$surfaceprop" "water"
+	"$bumpframe" "0"
+
+	"$fogenable" 1
+	"$fogcolor" "{24 38 53}"
+	"$fogstart" -350
+	"$fogend" 400.00
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 30.00
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" .05
+			"texturescrollangle" 45.00
+		}
+
+		"WaterLOD"
+		{
+		}
+	}
+}

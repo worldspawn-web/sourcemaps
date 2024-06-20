@@ -1,0 +1,90 @@
+"UnlitGeneric"
+{
+	"$basetexture" "trazox64/lava/lava01"
+	"$nodecal"	"1"
+	"$reflectivity"	"[.3 .3 .3]"
+	"$selfillum"	"1"
+	"$surfaceprop"	"slime"
+	
+	"%tooltexture" "trazox64/lava/lava01"
+	"%compilewater" 1
+	"%compileKeepLight" 1
+	"$abovewater" 1
+
+	"$envmap" "env_cubemap"	
+	"$refracttexture" "_rt_waterRefraction"
+
+	"$refractamount" ".2"
+
+	"$refractblur" "0"
+
+	"$scale" "[1 1]"
+
+	"$normalmap" "trazox64/lava/lava_refract/normal"
+
+	"$bottommaterial" "trazox64/lava/lava_refract/lava_beneath.vmt"
+	"$bumpframe" "0"
+
+	"$fogenable" 1
+	"$fogcolor" "{240 18 13}"
+	"$fogstart" "1"
+	"$fogend" "800"
+
+	 "$temp" "[0 0]"
+	 "$curr" 0.0
+	 "$curr2" 0.0
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 30.00
+		}
+
+		"Sine"
+		{
+			"sineperiod" "24"
+			"sinemin" -0.5
+			"sinemax" 0.5
+			"resultVar" "$curr"
+		}
+		"Sine"
+		{
+			"sineperiod" "16"
+			"sinemin" 0.5
+			"sinemax" -0.5
+			"resultVar" "$curr2"
+		}
+
+		"Equals"
+		{
+			"srcVar1" "$curr2"
+			"resultVar" "$temp[0]"
+		}
+		"Equals"
+		{
+			"srcVar1" "$curr"
+			"resultVar" "$temp[1]"
+		}
+
+ 
+		"TextureTransform"
+		{
+			"translateVar" "$temp"
+			"resultVar" "$bumptransform"
+		}  
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" .02
+			"texturescrollangle" 45.00
+		}
+		"WaterLOD"
+		{
+			"dummy" 0
+		}
+	}
+}

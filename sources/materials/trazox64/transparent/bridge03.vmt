@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "trazox64/transparent/bridge03"
+	"$alphatest" "1"
+	"$surfaceprop" "Wood_Panel"
+}

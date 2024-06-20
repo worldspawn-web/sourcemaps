@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture" "trazox64/transparent/tree04"
+	"$alphatest"			"1"
+	"$nocull" 				"1"
+	"$vertexcolor" 			"1"
+	"$vertexalpha" 			"1"
+	"$receiveflashlight"			"1"
+	"$singlepassflashlight"		"1"
+}

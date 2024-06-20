@@ -1,0 +1,61 @@
+"UnlitGeneric"
+{
+	"$basetexture" 	"trazox64/lava/lava01"
+	"$selfillum"	"1"
+	"$reflectivity"	"[.3 .3 .3]"
+	"$surfaceprop"	"mud"
+	"$nodecal"	"1"
+
+	"%compileKeepLight" 1
+	"%CompilePassBullets" 1
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 30.00
+		}
+
+		"Sine"
+		{
+			"sineperiod" "24"
+			"sinemin" -0.5
+			"sinemax" 0.5
+			"resultVar" "$curr"
+		}
+		"Sine"
+		{
+			"sineperiod" "16"
+			"sinemin" 0.5
+			"sinemax" -0.5
+			"resultVar" "$curr2"
+		}
+
+		"Equals"
+		{
+			"srcVar1" "$curr2"
+			"resultVar" "$temp[0]"
+		}
+		"Equals"
+		{
+			"srcVar1" "$curr"
+			"resultVar" "$temp[1]"
+		}
+
+ 
+		"TextureTransform"
+		{
+			"translateVar" "$temp"
+			"resultVar" "$bumptransform"
+		}  
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" .02
+			"texturescrollangle" 45.00
+		}
+	}
+}

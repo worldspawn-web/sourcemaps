@@ -1,0 +1,83 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "trazox64/water/water01"
+	"$nodecal"	"1"
+	
+	"%tooltexture" "trazox64/water/water01"
+	"%compilewater" 1
+	"$abovewater" 1
+
+	"$envmap" "env_cubemap"	
+	"$refracttexture" "_rt_WaterRefraction"
+
+	"$refractamount" ".2"
+
+	"$refractblur" "0"
+
+	"$scale" "[1 1]"
+	"$translucent" "1"
+	"$alpha" "1"
+
+	"$normalmap" "trazox64/water/water_refract/normal"
+
+	"$surfaceprop" "water"
+	"$bottommaterial" "trazox64/water/water_refract/water_beneath.vmt"
+	"$bumpframe" "0"
+
+	"$fogenable" 1
+	"$fogcolor" "{24 38 53}"
+	"$fogstart" "1"
+	"$fogend" "300"
+
+	 "$temp" "[0 0]"
+	 "$curr" 0.0
+	 "$curr2" 0.0
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 30.00
+		}
+
+		"Sine"
+		{
+			"sineperiod" "24"
+			"sinemin" -0.5
+			"sinemax" 0.5
+			"resultVar" "$curr"
+		}
+		"Sine"
+		{
+			"sineperiod" "16"
+			"sinemin" 0.5
+			"sinemax" -0.5
+			"resultVar" "$curr2"
+		}
+
+		"Equals"
+		{
+			"srcVar1" "$curr2"
+			"resultVar" "$temp[0]"
+		}
+		"Equals"
+		{
+			"srcVar1" "$curr"
+			"resultVar" "$temp[1]"
+		}
+
+ 
+		"TextureTransform"
+		{
+			"translateVar" "$temp"
+			"resultVar" "$bumptransform"
+		}  
+
+		"WaterLOD"
+		{
+			"dummy" 0
+		}
+	}
+}

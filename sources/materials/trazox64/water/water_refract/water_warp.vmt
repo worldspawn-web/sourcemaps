@@ -1,0 +1,32 @@
+"Refract"
+{
+	"%notooltexture" "1"
+	"$refractamount" ".05"
+	"$refracttint" "{155 215 255}"
+	"$bluramount" "1"
+	"$ignorez" "1"
+
+
+	"$scale" "[1 1]"
+
+	"$bumpmap" "trazox64/water/water_refract/water_dudv"
+	"$normalmap" "trazox64/water/water_refract/normal"
+	"$bumpframe" "0"
+
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 30.00
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" .1
+			"texturescrollangle" 45.00
+		}
+	}
+}

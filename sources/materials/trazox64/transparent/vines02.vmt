@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "trazox64/transparent/vines02"
+	"$alphatest" "1"
+	"$surfaceprop" "foliage"
+}
