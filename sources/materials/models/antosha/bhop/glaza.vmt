@@ -1,0 +1,5 @@
+VertexlitGeneric
+{
+	$basetexture "models/Antosha/bhop/glaza"
+	$translucent 1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+"$baseTexture" "models/antosha/jumpcoin1"
+"$bumpmap" "models/antosha/jumpcoin1_NRM"
+"$ssbump" "1"
+"$model" "1"
+}
