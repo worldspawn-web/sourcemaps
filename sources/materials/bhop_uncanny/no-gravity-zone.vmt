@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "bhop_uncanny/no-gravity-zone"
+	"$alphatest" "1"
+}

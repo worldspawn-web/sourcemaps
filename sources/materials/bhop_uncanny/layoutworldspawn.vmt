@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "bhop_uncanny/layoutworldspawn"
+	"$alphatest" "1"
+}
