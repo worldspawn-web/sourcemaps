@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Mario HD Textures/Window_04"
+	"$surfaceprop" "Wood_Panel"
+	"$translucent" 1
+}

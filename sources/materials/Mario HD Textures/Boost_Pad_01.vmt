@@ -1,0 +1,7 @@
+// Texture by: Koga73
+
+"LightmappedGeneric"
+{
+	"$basetexture" "Mario HD Textures/Boost_Pad_01"
+	"$surfaceprop" "Wood_Panel"
+}

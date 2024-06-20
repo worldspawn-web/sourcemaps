@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Mario HD Textures/Metal_Pipes_01"
+	"$surfaceprop" "Metal"
+	"$translucent" 1
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Mario HD Textures/Coincrate_4_Front"
+	"$surfaceprop" "MetalGrate"
+	"$translucent" 1
+}

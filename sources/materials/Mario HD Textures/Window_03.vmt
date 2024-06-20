@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Mario HD Textures/Window_03"
+	"$surfaceprop" "Glass"
+	"$translucent" 1
+}
