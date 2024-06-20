@@ -1,0 +1,26 @@
+//by Mamorex -> http://steamcommunity.com/profiles/76561198022771554
+
+"Refract"
+
+{
+ 
+"%tooltexture" "mamorex/water_ripple/waterfall_n"
+"$normalmap" "mamorex/water_ripple/waterfall_n"
+"$translucent" 1
+"$scale" "[1 1]"
+"$bluramount" "1"
+"$refractamount" "0.025"
+"$surfaceprop" "water"
+
+"Proxies"
+
+{
+	"TextureScroll"
+{
+	"texturescrollvar" "$bumptransform"
+	"texturescrollrate" "1.25"
+	"texturescrollangle" "270.00"
+}
+}
+
+}

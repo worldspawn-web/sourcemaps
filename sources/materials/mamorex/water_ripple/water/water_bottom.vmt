@@ -1,0 +1,39 @@
+//by Mamorex -> http://steamcommunity.com/profiles/76561198022771554
+
+"Water"
+
+{
+	
+	"$normalmap" "mamorex/water_ripple/water/water_n"
+	"$bumpmap" "mamorex/water_ripple/water/water_n"
+	"%tooltexture" "mamorex/water_ripple/water/water_n"
+
+	"%compilewater" "1"
+	"$abovewater" "0"
+	"$surfaceprop" "water"
+
+// Flow
+	"$flowmap" "liquids/water_flow_temp"
+	"$flow_noise_texture" "liquids/water_noise"
+	"$flow_normaluvscale" "400"
+	"$flow_worlduvscale" "0.5"
+	"$flow_uvscrolldistance" "0.01"
+	"$flow_bumpstrength" "0.025"
+	"$flow_noise_scale" "0.01"
+	"$flow_timescale" "0.1"
+	"$flow_timeintervalinseconds" "0.5"
+
+// Refraction
+	"$refract" "1"
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refractamount" "1"
+	"$refracttint" "{ 1 1 1 }"
+	
+// Fog stuff
+	"$fogenable" "1"
+	"$fogcolor" "{0 0 0}"
+	"$fogstart" "0"
+	"$fogend" "50"
+	"$lightmapwaterfog" "1"
+
+}

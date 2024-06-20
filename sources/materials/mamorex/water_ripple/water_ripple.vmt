@@ -1,0 +1,23 @@
+//by Mamorex -> http://steamcommunity.com/profiles/76561198022771554
+
+"Refract"
+
+{
+
+"%tooltexture" "mamorex/water_ripple/water_ripple_n"
+"$normalmap" "mamorex/water_ripple/water_ripple_n"
+"$refractamount" "0.025"
+"$surfaceprop" "water"
+
+"Proxies"
+
+{
+	"AnimatedTexture"
+{
+	"animatedtexturevar" "$normalmap"
+	"animatedtextureframenumvar" "$bumpframe"
+	"animatedtextureframerate" 30.00
+}
+}
+
+}

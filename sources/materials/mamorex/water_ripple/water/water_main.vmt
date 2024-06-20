@@ -1,0 +1,54 @@
+//by Mamorex -> http://steamcommunity.com/profiles/76561198022771554
+
+"Water"
+
+{
+	
+	"$bottommaterial" "mamorex/water_ripple/water/water_bottom"
+	"$normalmap" "mamorex/water_ripple/water/water_n"
+	"%tooltexture" "mamorex/water_ripple/water/water_n"
+
+"GPU<2"
+       {
+         "$fallbackmaterial" "mamorex/water_ripple/water/water_fallback"
+       }
+	
+	"%compilepassbullets" "0"
+	"%compilewater" "1"
+	"$forceexpensive" "1"
+	"$abovewater" "1"
+	"$surfaceprop" "water"
+
+// Flow
+	"$flowmap" "liquids/water_flow_temp"
+	"$flow_noise_texture" "liquids/water_noise"
+	"$flow_normaluvscale" "400"
+	"$flow_worlduvscale" "0.5"
+	"$flow_uvscrolldistance" "0.01"
+	"$flow_bumpstrength" "0.025"
+	"$flow_noise_scale" "0.01"
+	"$flow_timescale" "0.1"
+	"$flow_timeintervalinseconds" "0.5"
+
+// Reflection
+	"$reflectonlymarkedentities" "0"
+	"$reflect2dskybox" "1"
+	"$reflecttexture" "_rt_WaterReflection"
+	"$reflecttint" "{255 255 255}"
+	"$reflectentities" "1"
+	"$reflectamount" "1"
+
+// Refraction
+	"$refract" "1"
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refractamount" "1"
+	"$refracttint" "{ 1 1 1 }"
+
+// Fog stuff
+	"$fogenable" "1"
+	"$fogcolor" "{0 0 0}"
+	"$fogstart" "0"
+	"$fogend" "50"
+	"$lightmapwaterfog" "0"
+
+}
