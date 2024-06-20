@@ -1,0 +1,15 @@
+UnlitGeneric
+{
+	$basetexture "honeycomb_holographic/outline/honeycomb_outline"
+	$translucent "1"
+	$color "{130 130 130}"
+	"Proxies"
+	{
+		"TextureScroll"
+			{
+			"Texturescrollvar" "$Basetexturetransform"
+			"Texturescrollrate" "0.05"
+			"Texturescrollangle" "45"
+			}
+	}
+}

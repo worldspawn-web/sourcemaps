@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture "honeycomb_holographic/filled/honeycomb_filled"
+	$translucent "1"
+	$color "{255 183 62}"
+	$alpha "0.3"
+}

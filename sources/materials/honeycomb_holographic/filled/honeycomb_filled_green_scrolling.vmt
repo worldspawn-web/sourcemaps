@@ -1,0 +1,16 @@
+UnlitGeneric
+{
+	$basetexture "honeycomb_holographic/filled/honeycomb_filled"
+	$translucent "1"
+	$color "{122 238 122}"
+	$alpha "0.3"
+	"Proxies"
+	{
+		"TextureScroll"
+			{
+			"Texturescrollvar" "$Basetexturetransform"
+			"Texturescrollrate" "0.05"
+			"Texturescrollangle" "45"
+			}
+	}
+}

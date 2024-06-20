@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "honeycomb_holographic/outline/honeycomb_outline"
+	$translucent "1"
+	$color "{200 200 200}"
+}
