@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "worldspawn/dodstermonitor"
+	"$surfaceprop" "Default"
+ "Proxies"
+ {
+	"AnimatedTexture"
+	{
+		"animatedTextureVar" "$basetexture"
+		"animatedTextureFrameNumVar" "$frame"
+		"animatedTextureFrameRate" "10"
+	}
+
+}
+
+

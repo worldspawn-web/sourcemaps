@@ -1,0 +1,30 @@
+"UnlitGeneric"
+{
+	"$basetexture" "worldspawn/dodopizza_ad"
+	"$surfaceprop" "Default"
+ "Proxies"
+ {
+	"MaterialModify"
+     	{
+     	}
+
+	"AnimatedTexture"
+	{
+		"animatedTextureVar" "$basetexture"
+		"animatedTextureFrameNumVar" "$frame"
+		"animatedTextureFrameRate" "10"
+	}
+
+	"MaterialModifyAnimated"
+     	{
+     	}
+
+	"ToggleTexture"
+	{
+	"toggleTextureVar" "$basetexture"
+	"toggleTextureFrameNumVar" "$frame"
+	"toggleTextureShouldWrap" "1"
+}
+}
+
+
