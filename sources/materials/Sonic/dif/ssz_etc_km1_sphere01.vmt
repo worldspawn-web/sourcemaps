@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Sonic/dif/ssz_etc_km1_sphere01_dif"
+	"$surfaceprop" "rock"
+	"%keywords" "Sonic Generations"
+	"$bumpmap" "Sonic/dif/ssz_etc_km1_sphere01_nrm"
+
+
+}

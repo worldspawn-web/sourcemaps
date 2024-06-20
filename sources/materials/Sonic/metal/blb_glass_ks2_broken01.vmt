@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Sonic/metal/blb_glass_ks2_broken01_dif"
+	"$surfaceprop" "rock"
+	"%keywords" "Sonic Generations"
+	"$bumpmap" "Sonic/metal/blb_glass_ks2_broken01_nrm"
+
+"$selfillum" "1"
+"$nocull" "1"
+"$alpha" "1"
+"$additive" "1"
+"$halflambert" "1"
+
+
+
+}

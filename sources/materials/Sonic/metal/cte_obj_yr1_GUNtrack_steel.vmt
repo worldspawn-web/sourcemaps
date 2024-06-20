@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Sonic/metal/cte_obj_yr1_GUNtrack_steel_dif"
+	"$surfaceprop" "rock"
+	"%keywords" "Sonic Generations"
+	"$bumpmap" "Sonic/metal/cte_obj_yr1_GUNtrack_steel_nrm"
+}

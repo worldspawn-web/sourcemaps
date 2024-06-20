@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Sonic/wall/bpc_wall_fy1_roomfloor02_dif"
+	"$surfaceprop" "rock"
+	"%keywords" "Sonic Generations"
+	"$bumpmap" "Sonic/wall/bpc_wall_fy1_roomfloor02_nrm"
+}

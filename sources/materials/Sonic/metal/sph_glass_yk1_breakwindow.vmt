@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Sonic/metal/sph_glass_yk1_breakwindow_dif"
+	"$surfaceprop" "rock"
+	"%keywords" "Sonic Generations"
+
+"$selfillum" "1"
+"$nocull" "1"
+"$alpha" "1"
+"$additive" "1"
+"$halflambert" "1"
+
+
+
+}
