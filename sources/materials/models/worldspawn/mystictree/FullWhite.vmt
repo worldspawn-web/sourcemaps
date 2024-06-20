@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "FullColors/FullWhite"
+	"$nocull" 1
+}

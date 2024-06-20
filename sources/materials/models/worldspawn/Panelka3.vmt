@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/Panelka3"
+	$envmapmask "models/wolrdspawn/Panelka3_env"
+}

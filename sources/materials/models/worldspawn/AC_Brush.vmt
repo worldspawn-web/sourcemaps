@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/AC_Brush"
+	$ambientocclusion 1
+	$ambientocclusiontexture "models/worldspawn/AC_Brush_m"
+}
+

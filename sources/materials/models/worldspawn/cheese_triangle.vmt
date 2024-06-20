@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/cheese_triangle"
+	$bumpmap "models/worldspawn/cheese_triangle_n"
+	$ssbump 1
+	$nocull 1
+}
+

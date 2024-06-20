@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"basetexture" "models/worldspawn/mystictree/mtree4"
+	"$nocull 1"
+}

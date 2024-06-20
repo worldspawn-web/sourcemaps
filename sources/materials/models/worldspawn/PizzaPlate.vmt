@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/PizzaPlate"
+	$bumpmap "models/worldspawn/PizzaPlate_n"
+	$ssbump 1
+	$ambientocclusion 1
+	$ambientocclusiontexture "models/worldspawn/PizzaPlate_m"
+}

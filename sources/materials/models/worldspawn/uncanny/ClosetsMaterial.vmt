@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/uncanny/ClosetsMaterial"
+	$bumpmap "models/worldspawn/uncanny/ClosetsMaterial_n"
+	$ssbump 1
+	$nocull 1
+	$ambientocclusion 1
+	$ambientocclusiontexture "models/worldspawn/uncanny/ClosetsMaterial_m"
+}
+

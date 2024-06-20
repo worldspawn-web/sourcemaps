@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/dodobox"
+	$bumpmap "models/worldspawn/dodobox_n"
+	$ssbump 1
+	$nocull 1
+}
+

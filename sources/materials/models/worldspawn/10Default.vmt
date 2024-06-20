@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/10Default"
+	$bumpmap "models/worldspawn/10Default_n"
+	$ssbump 1
+	$nocull 1
+}
+

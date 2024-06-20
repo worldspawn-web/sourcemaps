@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/nightmushroom_material"
+	$bumpmap "models/worldspawn/nightmushroom_material_n"
+	$ssbump 1
+	$ambientocclusion 1
+	$ambientocclusiontexture "models/worldspawn/nightmushroom_material_m"
+	$selfillum 1
+    	$selfillummask "models/worldspawn/nightmushroom_material_e"
+}
+

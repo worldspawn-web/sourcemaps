@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/AC_Caulk"
+	$ambientocclusion 1
+	$ambientocclusiontexture "models/worldspawn/AC_Caulk_m"
+}
+

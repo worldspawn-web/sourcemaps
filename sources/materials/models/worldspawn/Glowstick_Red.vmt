@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$basetexture "cs_havana/white"
+	$color2 "[0.8 0.03 0.07]"
+	$selfillum "1"
+}
+

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/glass"
+	$nocull 1
+	$bumpmap "models/worldspawn/glass_n"
+	$ssbump 1
+	$ambientocclusion 1
+	$ambientocclusiontexture "models/worldspawn/glass_m"]
+	$translucent 1
+	$alpha 0.1
+}
+

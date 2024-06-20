@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/Box_Material"
+	$bumpmap "models/worldspawn/Box_Material_n"
+	$ssbump 1
+	$ambientocclusion 1
+	$ambientocclusiontexture "models/worldspawn/Box_Material_m"
+}
+

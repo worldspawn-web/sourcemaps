@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/green"
+	$bumpmap "models/worldspawn/green_n"
+	$ssbump 1
+	$ambientocclusion 1
+	$ambientocclusiontexture "models/worldspawn/green_m"
+	$nocull
+}

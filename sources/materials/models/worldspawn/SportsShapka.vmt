@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/SportsShapka"
+	$bumpmap "models/worldspawn/SportsShapka_n"
+	$ssbump 1
+	$ambientocclusion 1
+	$ambientocclusiontexture "models/worldspawn/SportsShapka_m"
+	$nocull
+}

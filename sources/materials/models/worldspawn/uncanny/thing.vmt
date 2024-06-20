@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/uncanny/thing"
+	$bumpmap "models/worldspawn/uncanny/thing_n"
+	$ssbump 1
+	$ambientocclusion 1
+	$ambientocclusiontexture "models/worldspawn/uncanny/thing_m"
+}
+

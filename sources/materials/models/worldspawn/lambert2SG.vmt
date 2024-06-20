@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	$basetexture "cs_havana/white"
+	$color2 "[0.360 0.230 0.06]"
+}
+

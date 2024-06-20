@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/worldspawn/AC_Boots"
+	$ambientocclusion 1
+	$ambientocclusiontexture "models/worldspawn/AC_Boots_m"
+}
+

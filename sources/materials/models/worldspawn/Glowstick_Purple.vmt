@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	$basetexture "cs_havana/white"
+	$color2 "[0.44 0.08 0.8]"
+	$selfillum "1"
+}
+

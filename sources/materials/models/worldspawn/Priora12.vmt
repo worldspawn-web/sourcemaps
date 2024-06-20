@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	$basetexture "fool/insurgency/misc/transparent/Glass_Generic_Tiling_01"
+	$color2 "[0.04 0.03 0.03]"
+	$translucent 1
+	$nocull 1
+}
+
