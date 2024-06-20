@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "dm_kart/{kart_door01"
+	"$translucent" 1
+}
