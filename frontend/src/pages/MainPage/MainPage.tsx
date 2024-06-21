@@ -1,12 +1,12 @@
-import { Link } from 'react-router-dom';
+import { Background } from '../../widgets';
+import { Navigation } from '../../common';
 
-import styles from './MainPage.module.scss';
+// import styles from './MainPage.module.scss';
 
 export const MainPage = () => {
   return (
-    <div>
-      temp
-      <div>temp2</div>
-    </div>
+    <Background>
+      <Navigation />
+    </Background>
   );
 };
