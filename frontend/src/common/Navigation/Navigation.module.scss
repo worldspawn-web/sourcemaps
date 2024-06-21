@@ -1,0 +1,26 @@
+.nav__btn {
+  color: white;
+
+  font-size: 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+
+  transition: 0.1s all ease;
+}
+
+.nav__btn:hover {
+  transform: scale(1.1);
+  color: #9b2828;
+}
+
+.nav {
+  position: relative;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+  padding-top: 2rem;
+
+  z-index: 1;
+}
