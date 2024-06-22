@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  position: relative;
+
+  margin: 3rem auto;
+
+  width: 90%;
+  height: auto;
+
+  background-color: rgba($color: #000000, $alpha: 0.3);
+  backdrop-filter: blur(2px);
+
+  border: 2px solid rgba($color: #000000, $alpha: 0.3);
+  border-radius: 6px;
+
+  z-index: 1;
+}
+
+.container__header {
+  color: white;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  text-align: center;
+
+  margin: 2rem auto;
+
+  z-index: 1;
+}
