@@ -1,0 +1,31 @@
+.mp__wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.mp__avatar {
+  width: 300px;
+  height: 400px;
+
+  display: flex;
+
+  margin: 1rem;
+}
+
+// redo
+.mp__info_header {
+  color: white;
+
+  // font-weight: bold;
+  font-size: 24px;
+
+  padding: 6px;
+}
+
+// redo
+.mp__info {
+  color: green;
+
+  // font-weight: bold;
+  font-size: 24px;
+}
