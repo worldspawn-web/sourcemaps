@@ -5,5 +5,5 @@ interface BackgroundProps {
 }
 
 export const Background: React.FC<BackgroundProps> = ({ children }) => (
-  <div>{children}</div>
+  <div id="background">{children}</div>
 );

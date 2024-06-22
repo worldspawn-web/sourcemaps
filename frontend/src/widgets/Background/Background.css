@@ -1,8 +1,9 @@
-div {
+#background {
   width: 100vw;
   height: 100vh;
   min-height: 350px;
   margin: 0;
+  z-index: 0;
   position: relative;
   background-color: #111;
   background-image: linear-gradient(
@@ -150,13 +151,14 @@ div {
   background-size: 300px 150px;
   background-position: center bottom;
 }
-div:before {
+#background:before {
   content: '';
   width: 100%;
   height: 100%;
   position: absolute;
   left: 0;
   top: 0;
+  z-index: 0;
   background-color: #111;
   background-image: linear-gradient(
       to top,
@@ -305,7 +307,7 @@ div:before {
   clip-path: circle(150px at center center);
   animation: flashlight 5000ms infinite;
 }
-div:after {
+#background:after {
   content: '';
   width: 25px;
   height: 10px;
@@ -313,6 +315,7 @@ div:after {
   left: calc(50% + 59px);
   bottom: 100px;
   background-repeat: no-repeat;
+  z-index: 0;
   background-image: radial-gradient(circle, #fff 50%, transparent 50%),
     radial-gradient(circle, #fff 50%, transparent 50%);
   background-size: 10px 10px;
