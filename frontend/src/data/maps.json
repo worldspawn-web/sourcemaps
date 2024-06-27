@@ -4,7 +4,7 @@
       "name": "bhop_ion_fixed",
       "game": ["csgo"],
       "gamemode": "bhop",
-      "date": "30.09.2020",
+      "date": "2020-09-30",
       "link": "https://gamebanana.com/mods/78087",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223275880164495401/5f3416cde20d6.png?ex=667e1e31&is=667cccb1&hm=b92d9f2a274aa036001ad97e2328aaa24139864a963cbfbd2c3e3d70557b9d5f&=&format=webp&quality=lossless&width=720&height=405"
     },
@@ -12,7 +12,7 @@
       "name": "kz_rgbcity_v0",
       "game": ["csgo"],
       "gamemode": "kz",
-      "date": "03.10.2020",
+      "date": "2020-10-03",
       "link": "https://gamebanana.com/mods/80938",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223276977725640786/5f60f6ecc4bfd.png?ex=667e1f36&is=667ccdb6&hm=52476538edbe2ecf0fe22c1d667f91c4600e99056ba2757962c0ebf84fd93267&=&format=webp&quality=lossless&width=720&height=405"
     },
@@ -20,7 +20,7 @@
       "name": "de_helmo",
       "game": ["csgo"],
       "gamemode": "de",
-      "date": null,
+      "date": "2020-11-04",
       "link": null,
       "image": null
     },
@@ -28,7 +28,7 @@
       "name": "de_vikka",
       "game": ["csgo"],
       "gamemode": "de",
-      "date": null,
+      "date": "2021-01-14",
       "link": null,
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223278739375259799/5fd466a0ca852.png?ex=667e20da&is=667ccf5a&hm=3cce2fc1caf0e2a8bc71b1592ee149f30948c8358c0ae92c20ae6bb838464b44&=&format=webp&quality=lossless&width=550&height=309"
     },
@@ -36,7 +36,7 @@
       "name": "bhop_ws_bram",
       "game": ["css"],
       "gamemode": "bhop",
-      "date": "30.10.2020",
+      "date": "2020-10-30",
       "link": "https://gamebanana.com/mods/126365",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223279142032900117/5f9c1f5a51be2.png?ex=667e213a&is=667ccfba&hm=ecbeb8481c477953bc1a2c9682d40e0828758432939fce15b27ad5729e4a2f7d&=&format=webp&quality=lossless&width=550&height=309",
       "tournament": true
@@ -45,7 +45,7 @@
       "name": "bhop_fps_dream",
       "game": ["css", "csgo"],
       "gamemode": "bhop",
-      "date": "12.11.2020",
+      "date": "2020-12-11",
       "link": "https://gamebanana.com/mods/125074",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223279480080961616/5fabcbf64f7a7.png?ex=667e218b&is=667cd00b&hm=1c75c416ce0300cfb5765ef79b03ee1abdfa201db8fe58fa1142f81688a7b2cf&=&format=webp&quality=lossless&width=720&height=405"
     },
@@ -53,7 +53,7 @@
       "name": "de_vikka_redux",
       "game": ["csgo"],
       "gamemode": "de",
-      "date": "12.12.2020",
+      "date": "2020-12-12",
       "link": null,
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223279828946653344/5fd466a0d520a.png?ex=667e21de&is=667cd05e&hm=a0040c1543c371f9303a2dc30a282e245358950317c7d36ae43f6eeb6545990a&=&format=webp&quality=lossless&width=550&height=309"
     },
@@ -61,7 +61,7 @@
       "name": "bhop_aeryn",
       "game": ["css", "csgo"],
       "gamemode": "bhop",
-      "date": "20.12.2020",
+      "date": "2020-12-20",
       "link": "https://gamebanana.com/mods/124381",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223280206551318558/5fdf50c7f0a76.png?ex=667e2238&is=667cd0b8&hm=68d4a5617b9d5a0dcd4bb0d5e22b184de3892354bfd56874a3a6a14355f22d0c&=&format=webp&quality=lossless&width=720&height=405"
     },
@@ -69,7 +69,7 @@
       "name": "bhop_indistinct",
       "game": ["css", "csgo"],
       "gamemode": "bhop",
-      "date": "02.03.2023",
+      "date": "2023-03-02",
       "link": "https://gamebanana.com/mods/78074",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223280582885380103/600c12c287ac8.png?ex=667e2292&is=667cd112&hm=ede0f378a22a08597eaf60ed1454eedb39e32f6a94cfc48225257c0a27b82af0&=&format=webp&quality=lossless&width=720&height=405"
     },
@@ -77,7 +77,7 @@
       "name": "de_sakhaschool",
       "game": ["csgo"],
       "gamemode": "de",
-      "date": "28.03.2022",
+      "date": "2022-03-28",
       "link": null,
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223280851664506990/606dfbd9e576c.png?ex=667e22d2&is=667cd152&hm=f2a5b98522e2826e372814d98734b8698c2d6129cd97ce8652b787c8eb56ba53&=&format=webp&quality=lossless&width=550&height=309"
     },
@@ -85,7 +85,7 @@
       "name": "bhop_experience",
       "game": ["css", "csgo"],
       "gamemode": "bhop",
-      "date": "14.01.2021",
+      "date": "2021-01-14",
       "link": "https://gamebanana.com/mods/295219",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223281173875392522/60c7299556b54.png?ex=667e231f&is=667cd19f&hm=14362e9eb15396e6ea4c21004e6a4eebebe05717d55744794257333ff76b6787&=&format=webp&quality=lossless&width=550&height=309",
       "tournament": true
@@ -93,42 +93,42 @@
     {
       "name": "bhop_exanimo",
       "game": ["css", "csgo"],
-      "date": "07.04.2022",
+      "date": "2022-04-07",
       "link": "https://gamebanana.com/mods/369680",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223281471285104692/624f23ed86f7f.png?ex=667e2366&is=667cd1e6&hm=c7b629963ec4a7e7ad74c87871b82f2ddef65a3f90d9943e791696c194a5f37e&=&format=webp&quality=lossless&width=550&height=309"
     },
     {
       "name": "bhop_foggyday_fix",
       "game": ["css", "csgo"],
-      "date": "14.04.2022",
+      "date": "2022-04-14",
       "link": "https://gamebanana.com/mods/125050",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223281731273232414/606de1161207e.png?ex=667e23a4&is=667cd224&hm=074f1e78fdbaaca467f5a7006c1d27f0e936c5246fba1d8052e05feff6a2c041&=&format=webp&quality=lossless&width=550&height=309"
     },
     {
       "name": "pt_warehouse",
       "game": ["css"],
-      "date": "02.03.2023",
+      "date": "2023-03-02",
       "link": "https://gamebanana.com/mods/398454",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223283115410067567/630a1a8782aaa.png?ex=667e24ee&is=667cd36e&hm=86ac236c1ffda3137c3113c407bbe592668584463d2f6098207c110dc80a5a90&=&format=webp&quality=lossless&width=550&height=309"
     },
     {
       "name": "bhop_dodopizza_fix",
       "game": ["css", "csgo"],
-      "date": "05.02.2023",
+      "date": "2023-02-05",
       "link": "https://gamebanana.com/mods/425529",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223283371053154364/63dc4125efcb5.png?ex=667e252b&is=667cd3ab&hm=307e3525f394b2a70ce5118b143aae1c01ff00a10f47434a048113e47eba3f19&=&format=webp&quality=lossless&width=720&height=405"
     },
     {
       "name": "bhop_uncanny",
       "game": ["css"],
-      "date": "18.09.2023",
+      "date": "2023-09-18",
       "link": "https://gamebanana.com/mods/469207",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223283628314988694/65073ffccdf32.png?ex=667e2568&is=667cd3e8&hm=2de3c3f109626e9bdbc589ceda44c17e2dd41063cb24de361bb8fdaa9decc591&=&format=webp&quality=lossless&width=550&height=309"
     },
     {
       "name": "bhop_uncanny_easy",
       "game": ["css"],
-      "date": "21.04.2024",
+      "date": "2024-04-21",
       "link": "https://gamebanana.com/mods/508610",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1231591674329698394/1.png?ex=667e0c61&is=667cbae1&hm=b453dad3822b6fb532d655f8edee8912197efe8381a853e6d6a7c5a7cf99d1f4&=&format=webp&quality=lossless&width=550&height=309"
     }
