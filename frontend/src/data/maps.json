@@ -93,6 +93,7 @@
     {
       "name": "bhop_exanimo",
       "game": ["css", "csgo"],
+      "gamemode": "bhop",
       "date": "2022-04-07",
       "link": "https://gamebanana.com/mods/369680",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223281471285104692/624f23ed86f7f.png?ex=667e2366&is=667cd1e6&hm=c7b629963ec4a7e7ad74c87871b82f2ddef65a3f90d9943e791696c194a5f37e&=&format=webp&quality=lossless&width=550&height=309"
@@ -100,6 +101,7 @@
     {
       "name": "bhop_foggyday_fix",
       "game": ["css", "csgo"],
+      "gamemode": "bhop",
       "date": "2022-04-14",
       "link": "https://gamebanana.com/mods/125050",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223281731273232414/606de1161207e.png?ex=667e23a4&is=667cd224&hm=074f1e78fdbaaca467f5a7006c1d27f0e936c5246fba1d8052e05feff6a2c041&=&format=webp&quality=lossless&width=550&height=309"
@@ -107,6 +109,7 @@
     {
       "name": "pt_warehouse",
       "game": ["css"],
+      "gamemode": "prop tricks",
       "date": "2023-03-02",
       "link": "https://gamebanana.com/mods/398454",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223283115410067567/630a1a8782aaa.png?ex=667e24ee&is=667cd36e&hm=86ac236c1ffda3137c3113c407bbe592668584463d2f6098207c110dc80a5a90&=&format=webp&quality=lossless&width=550&height=309"
@@ -114,6 +117,7 @@
     {
       "name": "bhop_dodopizza_fix",
       "game": ["css", "csgo"],
+      "gamemode": "bhop",
       "date": "2023-02-05",
       "link": "https://gamebanana.com/mods/425529",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223283371053154364/63dc4125efcb5.png?ex=667e252b&is=667cd3ab&hm=307e3525f394b2a70ce5118b143aae1c01ff00a10f47434a048113e47eba3f19&=&format=webp&quality=lossless&width=720&height=405"
@@ -121,6 +125,7 @@
     {
       "name": "bhop_uncanny",
       "game": ["css"],
+      "gamemode": "bhop",
       "date": "2023-09-18",
       "link": "https://gamebanana.com/mods/469207",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1223283628314988694/65073ffccdf32.png?ex=667e2568&is=667cd3e8&hm=2de3c3f109626e9bdbc589ceda44c17e2dd41063cb24de361bb8fdaa9decc591&=&format=webp&quality=lossless&width=550&height=309"
@@ -128,6 +133,7 @@
     {
       "name": "bhop_uncanny_easy",
       "game": ["css"],
+      "gamemode": "bhop",
       "date": "2024-04-21",
       "link": "https://gamebanana.com/mods/508610",
       "image": "https://media.discordapp.net/attachments/1223166705837015132/1231591674329698394/1.png?ex=667e0c61&is=667cbae1&hm=b453dad3822b6fb532d655f8edee8912197efe8381a853e6d6a7c5a7cf99d1f4&=&format=webp&quality=lossless&width=550&height=309"
