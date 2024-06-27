@@ -1,12 +1,24 @@
 import styles from './RenderMaps.module.scss';
 import data from '../../data/maps.json';
 
+interface Map {
+  name: string;
+  game: string[];
+  gamemode: string;
+  date: string | null;
+  link: string | null;
+  image: string | null;
+  tournament?: boolean;
+}
+
 export const RenderMaps = () => {
   const mapsData = data.maps;
   const noImageLink = '../public/no_image_available.png';
 
-  const renderCards = (map) => {
-    const { name, game, gamemode, date } = map;
+  const renderCards = (map: Map) => {
+    // TODO: add modal window with map information
+    // + game, gamemode, date
+    const { name } = map;
     let { link, image, tournament } = map;
 
     if (!image) image = noImageLink;
