@@ -1,12 +1,15 @@
 import { Link } from 'react-router-dom';
+
 import styles from './Navigation.module.scss';
+import links from '../../data/links.json';
 
 interface ButtonLinkProps {
   name: string;
+  url: string;
 }
 
-const ButtonLink: React.FC<ButtonLinkProps> = ({ name }) => (
-  <Link className={styles.nav__btn} to={`#${name.toLowerCase()}`}>
+const ButtonLink: React.FC<ButtonLinkProps> = ({ name, url }) => (
+  <Link className={styles.nav__btn} to={url}>
     {name}
   </Link>
 );
@@ -14,9 +17,9 @@ const ButtonLink: React.FC<ButtonLinkProps> = ({ name }) => (
 export const Navigation = () => {
   return (
     <nav className={styles.nav}>
-      <ButtonLink name="Maps" />
-      <ButtonLink name="YouTube" />
-      <ButtonLink name="GitHub" />
+      <ButtonLink name="Maps" url={links.maps} />
+      <ButtonLink name="YouTube" url={links.youtube} />
+      <ButtonLink name="GitHub" url={links.github} />
     </nav>
   );
 };
