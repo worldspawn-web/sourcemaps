@@ -1,8 +1,7 @@
 import { Background, Container } from '../../widgets';
-import { Navigation } from '../../common';
+import { Navigation, RenderMaps } from '../../common';
 
 import styles from './MainPage.module.scss';
-import { RenderMaps } from '../../common/RenderMaps/RenderMaps';
 
 export const MainPage = () => {
   return (
