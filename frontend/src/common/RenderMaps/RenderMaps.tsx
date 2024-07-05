@@ -13,14 +13,14 @@ interface Map {
 
 export const RenderMaps = () => {
   const mapsData = data.maps;
-  const noImageLink = '../public/no_image_available.png';
+  const noImageLink = '/no_image_available.png';
 
   let counter = 0;
 
   const renderCards = (map: Map) => {
     // TODO: add modal window with map information
     // + game, gamemode, date
-    const { name } = map;
+    // const { name } = map;
     let { link, image, tournament } = map;
 
     if (!image) image = noImageLink;
@@ -33,7 +33,7 @@ export const RenderMaps = () => {
       <div className={styles.maps__map} key={`map-${counter}`}>
         <a href={link}>
           <img src={image} className={styles.maps__image} />
-          <span className={styles.maps__name}>{name}</span>
+          {/* <span className={styles.maps__name}>{name}</span> */}
         </a>
       </div>
     );
