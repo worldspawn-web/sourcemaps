@@ -15,6 +15,8 @@ export const RenderMaps = () => {
   const mapsData = data.maps;
   const noImageLink = '../public/no_image_available.png';
 
+  let counter = 0;
+
   const renderCards = (map: Map) => {
     // TODO: add modal window with map information
     // + game, gamemode, date
@@ -25,8 +27,10 @@ export const RenderMaps = () => {
     if (!link) link = '#';
     if (!tournament) tournament = false;
 
+    counter++;
+
     return (
-      <div className={styles.maps__map}>
+      <div className={styles.maps__map} key={`map-${counter}`}>
         <a href={link}>
           <img src={image} className={styles.maps__image} />
           <span className={styles.maps__name}>{name}</span>
