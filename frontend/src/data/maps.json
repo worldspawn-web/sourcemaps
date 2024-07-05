@@ -6,7 +6,7 @@
       "gamemode": "bhop",
       "date": "2020-09-30",
       "link": "https://gamebanana.com/mods/78087",
-      "image": "../public/bhop_ion_fixed.png"
+      "image": "/bhop_ion_fixed.png"
     },
     {
       "name": "kz_rgbcity_v0",
@@ -14,7 +14,7 @@
       "gamemode": "kz",
       "date": "2020-10-03",
       "link": "https://gamebanana.com/mods/80938",
-      "image": "../public/kz_rgbcity_v0.png"
+      "image": "/kz_rgbcity_v0.png"
     },
     {
       "name": "de_helmo",
@@ -30,7 +30,7 @@
       "gamemode": "de",
       "date": "2021-01-14",
       "link": null,
-      "image": "../public/de_vikka.png"
+      "image": "/de_vikka.png"
     },
     {
       "name": "bhop_ws_bram",
@@ -38,7 +38,7 @@
       "gamemode": "bhop",
       "date": "2020-10-30",
       "link": "https://gamebanana.com/mods/126365",
-      "image": "../public/bhop_ws_bram.png",
+      "image": "/bhop_ws_bram.png",
       "tournament": true
     },
     {
@@ -47,7 +47,7 @@
       "gamemode": "bhop",
       "date": "2020-12-11",
       "link": "https://gamebanana.com/mods/125074",
-      "image": "../public/bhop_fps_dream.png"
+      "image": "/bhop_fps_dream.png"
     },
     {
       "name": "de_vikka_redux",
@@ -55,7 +55,7 @@
       "gamemode": "de",
       "date": "2020-12-12",
       "link": null,
-      "image": "../public/de_vikka_redux.png"
+      "image": "/de_vikka_redux.png"
     },
     {
       "name": "bhop_aeryn",
@@ -63,7 +63,7 @@
       "gamemode": "bhop",
       "date": "2020-12-20",
       "link": "https://gamebanana.com/mods/124381",
-      "image": "../public/bhop_aeryn.png"
+      "image": "/bhop_aeryn.png"
     },
     {
       "name": "bhop_indistinct",
@@ -71,7 +71,7 @@
       "gamemode": "bhop",
       "date": "2023-03-02",
       "link": "https://gamebanana.com/mods/78074",
-      "image": "../public/bhop_indistinct.png"
+      "image": "/bhop_indistinct.png"
     },
     {
       "name": "de_sakhaschool",
@@ -79,7 +79,7 @@
       "gamemode": "de",
       "date": "2022-03-28",
       "link": null,
-      "image": "../public/de_sakhaschool.png"
+      "image": "/de_sakhaschool.png"
     },
     {
       "name": "bhop_experience",
@@ -87,7 +87,7 @@
       "gamemode": "bhop",
       "date": "2021-01-14",
       "link": "https://gamebanana.com/mods/295219",
-      "image": "../public/bhop_experience.png",
+      "image": "/bhop_experience.png",
       "tournament": true
     },
     {
@@ -96,7 +96,7 @@
       "gamemode": "bhop",
       "date": "2022-04-07",
       "link": "https://gamebanana.com/mods/369680",
-      "image": "../public/bhop_exanimo.png"
+      "image": "/bhop_exanimo.png"
     },
     {
       "name": "bhop_foggyday_fix",
@@ -104,7 +104,7 @@
       "gamemode": "bhop",
       "date": "2022-04-14",
       "link": "https://gamebanana.com/mods/125050",
-      "image": "../public/bhop_foggyday_fix.png"
+      "image": "/bhop_foggyday_fix.png"
     },
     {
       "name": "pt_warehouse",
@@ -112,7 +112,7 @@
       "gamemode": "prop tricks",
       "date": "2023-03-02",
       "link": "https://gamebanana.com/mods/398454",
-      "image": "../public/pt_warehouse.png"
+      "image": "/pt_warehouse.png"
     },
     {
       "name": "bhop_dodopizza_fix",
@@ -120,7 +120,7 @@
       "gamemode": "bhop",
       "date": "2023-02-05",
       "link": "https://gamebanana.com/mods/425529",
-      "image": "../public/bhop_dodopizza.png"
+      "image": "/bhop_dodopizza.png"
     },
     {
       "name": "bhop_uncanny",
@@ -128,7 +128,7 @@
       "gamemode": "bhop",
       "date": "2023-09-18",
       "link": "https://gamebanana.com/mods/469207",
-      "image": "../public/bhop_uncanny.png"
+      "image": "/bhop_uncanny.png"
     },
     {
       "name": "bhop_uncanny_easy",
@@ -136,7 +136,7 @@
       "gamemode": "bhop",
       "date": "2024-04-21",
       "link": "https://gamebanana.com/mods/508610",
-      "image": "../public/bhop_uncanny_easy.png"
+      "image": "/bhop_uncanny_easy.png"
     }
   ]
 }
