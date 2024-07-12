@@ -31,7 +31,7 @@ export const RenderMaps = () => {
 
     return (
       <div className={styles.maps__map} key={`map-${counter}`}>
-        <a href={link}>
+        <a href={link} target="_blank">
           <img src={image} className={styles.maps__image} />
           {/* <span className={styles.maps__name}>{name}</span> */}
         </a>
