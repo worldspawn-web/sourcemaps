@@ -1,3 +1,5 @@
+@import '../../scss/colors';
+
 .mp__wrapper {
   display: flex;
   flex-direction: row;
@@ -14,9 +16,8 @@
 
 // redo
 .mp__info_header {
-  color: white;
+  color: $sm_white;
 
-  // font-weight: bold;
   font-size: 24px;
 
   padding: 6px;
@@ -24,8 +25,7 @@
 
 // redo
 .mp__info {
-  color: green;
+  color: $sm_green;
 
-  // font-weight: bold;
   font-size: 24px;
 }

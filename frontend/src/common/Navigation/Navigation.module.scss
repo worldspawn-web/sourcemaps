@@ -1,5 +1,7 @@
+@import '../../scss/colors';
+
 .nav__btn {
-  color: white;
+  color: $sm_white;
 
   font-size: 24px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -10,7 +12,7 @@
 
 .nav__btn:hover {
   transform: scale(1.1);
-  color: #9b2828;
+  color: $sm_link_hover;
 }
 
 .nav {
