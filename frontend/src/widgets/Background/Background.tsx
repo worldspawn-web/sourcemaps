@@ -1,4 +1,4 @@
-import './Background.css';
+import './Background.scss';
 
 interface BackgroundProps {
   children: React.ReactNode;
