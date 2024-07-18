@@ -9,9 +9,9 @@
 
 ### <a href="https://gamebanana.com/members/1695181"> My Maps (Gamebanana)</a>
 
-### <a href="./sources/materials/"> My Most Used Materials </a>
+### <a href="./sources/materials/"> Used Materials </a>
 
-### <a href="./sources/models/"> My Most Used Models </a>
+### <a href="./sources/models/"> Used Models </a>
 
 ### <a href="./sources/vmf/"> Some of My VMFs </a>
 
